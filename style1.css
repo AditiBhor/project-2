@@ -1,0 +1,35 @@
+body{
+	background-image:url('https://ak.picdn.net/shutterstock/videos/21518641/thumb/1.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+h1{
+	font-size: 50px;
+}
+a{
+	background-color: #60a083;
+}
+th{
+	background-color: #60a083;
+	text-align: center;
+	font-size:25px;
+	padding:10px;
+}
+tr:nth-child(even)
+ {
+ 	background-color: #f2f2f2;
+ 	margin:20px;
+ }
+mark {
+  background-color: #60a083;
+  color: black;
+  size:20px;
+  font-weight: 20px;
+}
+table {
+	
+	margin-left: auto;
+	margin-right: auto;
+	}
